@@ -1,6 +1,6 @@
 # mass_rename
-[![Build Status](https://travis-ci.com/lucis-fluxum/mass_rename.svg?branch=master)](https://travis-ci.com/lucis-fluxum/mass_rename)
-[![codecov](https://codecov.io/gh/lucis-fluxum/mass_rename/branch/master/graph/badge.svg)](https://codecov.io/gh/lucis-fluxum/mass_rename)
+[![Build Status](https://travis-ci.com/0xSiO/mass_rename.svg?branch=master)](https://travis-ci.com/0xSiO/mass_rename)
+[![codecov](https://codecov.io/gh/0xSiO/mass_rename/branch/master/graph/badge.svg)](https://codecov.io/gh/0xSiO/mass_rename)
 [![Gem Version](https://badge.fury.io/rb/mass_rename.svg)](https://badge.fury.io/rb/mass_rename)
 
 Filter and mass rename files in a directory or subdirectories with regular expressions.
@@ -48,7 +48,7 @@ To install this gem onto your local machine, run `bundle exec rake install`.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/lucis-fluxum/mass_rename.
+Bug reports and pull requests are welcome on GitHub at https://github.com/0xSiO/mass_rename.
 
 ## License
 
